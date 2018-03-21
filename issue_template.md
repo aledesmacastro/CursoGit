@@ -2,8 +2,7 @@
 Describa brevemente el problema que está experimentando (o la función que desea que se agregue al proyecto). Díganos qué estaba tratando de hacer y qué sucedió en su lugar.
 ## Su entorno
 * Versión del proyecto.
-#### Qué navegador: 
- - [ ] Browsers Affected
+#### Qué navegador:
  - [ ] Chrome
  - [ ] Firefox
  - [ ] Edge
